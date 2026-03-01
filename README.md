@@ -1,31 +1,36 @@
 # Hi, I'm Jinesh R 👋
 
-### 🎓 Computer Science Engineering Graduate | MERN Stack Developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Computer+Science+Grad+'25;MERN+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" /></a>
 
-[cite_start]I am a **Computer Science Engineering graduate (2025)** based in **Kerala, India**[cite: 2, 3, 9]. [cite_start]My focus is on building functional, secure, and efficient web applications using the **MERN stack**[cite: 18, 20]. I enjoy solving backend logic problems and creating clean, usable interfaces for my projects.
+I am a **Computer Science Engineering graduate (2025)** based in **Kerala, India**. My focus is on building functional, secure, and efficient web applications using the **MERN stack**. I enjoy solving backend logic problems and creating clean, usable interfaces for my projects.
 
 ---
 
 ### 🚀 Projects in Focus
-- [cite_start]🎬 **Cineverse**: A full-stack movie booking application built with **MongoDB, Express, React, and Node.js**[cite: 18, 20].
-- [cite_start]🛠️ **Sync-Todo**: A secure task management backend featuring **JWT authentication**, **bcrypt password hashing**, and **SQLite**[cite: 24, 26, 28].
-- [cite_start]📱 **UI Redesign**: Gained experience in **Figma** and user flow optimization through an event management app redesign project[cite: 30, 33].
+- 👕 **JerseyTrove**: A full-stack e-commerce platform for a dedicated sports jersey business, built using the **MERN stack** (MongoDB, Express, React, Node.js).
+- 🎬 **Cineverse**: A comprehensive movie booking application also leveraging the power of **MongoDB, Express, React, and Node.js**.
+- 🛠️ **Sync-Todo**: A secure task management backend featuring **JWT authentication**, **bcrypt password hashing**, and **SQLite**.
+- 📱 **UI Redesign**: Gained experience in **Figma** and user flow optimization through an event management app redesign project.
 
 ### 🛠️ Technical Toolbox
-- [cite_start]**Languages & Frontend:** JavaScript, ReactJS, HTML/CSS, Python.
-- [cite_start]**Backend & Database:** NodeJS, ExpressJS, SQLite, MongoDB.
-- [cite_start]**Security & APIs:** JWT, bcrypt, RESTful API Design[cite: 27, 28, 48].
-- [cite_start]**Tools:** Git, GitHub, Figma[cite: 4, 48].
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
 
-### 🎓 Education & Training
-- [cite_start]**B.E. in Computer Science Engineering**: Dhanalakshmi Srinivasan College of Engineering (7.75 CGPA)[cite: 5, 7, 8].
-- [cite_start]**Full Stack Internship**: Completed a certified program at Novitech R&D focusing on web fundamentals[cite: 12, 13, 14].
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jineshraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jineshraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📊 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com)
+- 💼 [LinkedIn](www.linkedin.com/in/jinesh-r)
 - 📧 [jineshr101@gmail.com](mailto:jineshr101@gmail.com)
-- [cite_start]🌍 Based in Kerala, India [cite: 3]
 
-[cite_start]*Languages: English, Malayalam, Tamil, and Hindi*[cite: 49].
+*Languages: English, Malayalam, Tamil, and Hindi*.
