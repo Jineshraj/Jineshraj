@@ -30,7 +30,7 @@ I am a **Computer Science Engineering graduate (2025)** based in **Kerala, India
 ---
 
 ### 📊 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/jinesh-r)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jinesh-r)
 - 📧 [jineshr101@gmail.com](mailto:jineshr101@gmail.com)
 
 *Languages: English, Malayalam, Tamil, and Hindi*.
